@@ -42,7 +42,7 @@ package org.robotlegs.mvcs
         public function autoStartup_in_constructor_creates_listener_for_ADDED_TO_STAGE_on_contextView():void
         {
 			var contextView:Sprite = new Sprite();
-			var autoStartup:Boolean = true;
+			var autoStartup:Boolean = false;
 			signalContext = new SignalContext(contextView, autoStartup);
 			
             assertTrue(contextView.hasEventListener(Event.ADDED_TO_STAGE));
