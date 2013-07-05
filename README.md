@@ -1,4 +1,8 @@
-You can download compiled swc here...
+[UPDATE] Better migrate to Robotlegs 2
+----
+https://github.com/katopz/robotlegs2-SignalCommandMap-example
+
+Or keep mess with old version compiled swc here...
 ----
 https://github.com/katopz/robotlegs-modular-signals/tree/master/bin
 
