@@ -20,3 +20,7 @@ Don't forget to add this to compiler option
 ----
 
     -keep-as3-metadata+=Inject -keep-as3-metadata+=PostConstruct
+
+Love me? love my cat!
+---
+* Please feed my [cat](http://instagram.com/katopz) right [here](https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=katopz%40gmail%2ecom&lc=TH&item_name=tuna&item_number=tuna&button_subtype=services&no_note=0&currency_code=USD&bn=PP%2dBuyNowBF%3abtn_buynowCC_LG%2egif%3aNonHostedGuest) or [here](https://itunes.apple.com/th/app/meaning/id666957022?mt=8)
